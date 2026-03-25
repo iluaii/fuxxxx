@@ -63,17 +63,17 @@ go build -o fuxxxx fuzzz.go
 
 ## Features
 
-✅ Fast multi-threaded fuzzing (70 concurrent requests)
-✅ Custom headers support
-✅ POST/PUT/DELETE methods
-✅ Proxy support
-✅ Status code filtering
-✅ Response size filtering
-✅ Recursive fuzzing
-✅ Colored output (status codes)
-✅ Results export to file
-✅ Custom timeout
-✅ Relative redirect handling
+ Fast multi-threaded fuzzing (70 concurrent requests)
+ Custom headers support
+ POST/PUT/DELETE methods
+ Proxy support
+ Status code filtering
+ Response size filtering
+ Recursive fuzzing
+ Colored output (status codes)
+ Results export to file
+ Custom timeout
+ Relative redirect handling
 
 ## Output
 
